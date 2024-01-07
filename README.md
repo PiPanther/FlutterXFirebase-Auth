@@ -1,4 +1,4 @@
-# card_app
+# Flutter X Firebase Auth
 
 A new Flutter project.
 
